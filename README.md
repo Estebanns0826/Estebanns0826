@@ -12,7 +12,7 @@ I am Esteban Ramos Gomez, a Mechatronic Engineer, student specializing in Artifi
 I have decided to explore the world of artificial intelligence because I realized that the oil
 of the future is data.
 
-- <h2>skills</h2>
+- <h2>Skills</h2>
 
 I excel in engineering with a focus
 particular in Machine Learning (ML) and
@@ -27,4 +27,8 @@ complex engineering with emphasis on
 the development and application of techniques
 ML and intelligent systems.
 
+<h2> Meet me at</h2>
+- Instagram: https://www.instagram.com/_ramos_esteban/
+- LinkedIn: inkedin.com/in/esteban-ramos-gomez-27aa551a1/
+- Facebook: https://www.facebook.com/esteban.ramosgomez.12/
 -->
