@@ -3,14 +3,14 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Industrial Automation
-- 🌱 I’m currently learning ingeligen
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+I am Esteban Ramos Gomez, Mechatronic Engineer student specializing in Artificial Intelligence
+
+- 🔭 I’m currently working on Industrial automation
+- 🌱 I’m currently Artificial Intelligence
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- ⚡ Fun fact: Between the data generated from energy efficiency and industrial processes,
+I have decided to explore the world of artificial intelligence because I realized that theoil
+of the future is data.
 -->
