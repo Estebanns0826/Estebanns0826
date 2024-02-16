@@ -1,4 +1,4 @@
-# Hello there👋 🌱
+# Hello there👋🌱
 
 I am Esteban Ramos Gomez, a Mechatronic Engineer, student specializing in Artificial Intelligence
 
