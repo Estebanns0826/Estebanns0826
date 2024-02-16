@@ -4,13 +4,11 @@
 
 
 
-I am Esteban Ramos Gomez, Mechatronic Engineer student specializing in Artificial Intelligence
+I am Esteban Ramos Gomez, a Mechatronic Engineer, student specializing in Artificial Intelligence
 
 - 🔭 I’m currently working on Industrial automation
-- 🌱 I’m currently Artificial Intelligence
-- 📫 How to reach me: ...
-
+- 🌱 I’m currently studying and specializing in Artificial Intelligence
 - ⚡ Fun fact: Between the data generated from energy efficiency and industrial processes,
-I have decided to explore the world of artificial intelligence because I realized that theoil
+I have decided to explore the world of artificial intelligence because I realized that the oil
 of the future is data.
 -->
