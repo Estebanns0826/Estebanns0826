@@ -12,7 +12,7 @@ I excel in engineering with a focus particular in Machine Learning (ML) and asso
 
 ## Meet me at
 
-- Instagram: [https://www.instagram.com/_ramos_esteban/](https://www.instagram.com/_ramos_esteban/)
-- LinkedIn: [https://www.linkedin.com/in/esteban-ramos-gomez-27aa551a1/](https://www.linkedin.com/in/esteban-ramos-gomez-27aa551a1/)
-- Facebook: [https://www.facebook.com/esteban.ramosgomez.12/](https://www.facebook.com/esteban.ramosgomez.12/)
+- ![Instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg) [Instagram](https://www.instagram.com/_ramos_esteban/)
+- ![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/esteban-ramos-gomez-27aa551a1/)
+- ![Facebook](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg) [Facebook](https://www.facebook.com/esteban.ramosgomez.12/)
 
