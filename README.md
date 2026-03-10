@@ -1,17 +1,47 @@
-# Hello there👋🌱
+Aquí tienes una versión mucho más detallada que resalta tu perfil como Ingeniero de Mecatrónica y Especialista en IA, integrando tu trabajo actual en analítica de tráfico y tu influencia en el sector tecnológico.
+🚀 Esteban Ramos Gómez | Mechatronic Engineer & AI Specialist
 
-I am Esteban Ramos Gomez, a Mechatronic Engineer, student specializing in Artificial Intelligence
+I’m a Mechatronic Engineer based in Cali, Colombia, specializing in Artificial Intelligence. My work lives at the intersection of computer vision, edge computing, and industrial automation, transforming raw data into actionable intelligence.
 
-- 🔭 I’m currently working on Industrial automation
-- 🌱 I’m currently studying and specializing in Artificial Intelligence
-- ⚡ Fun fact: Between the data generated from energy efficiency and industrial processes, I have decided to explore the world of artificial intelligence because I realized that the oil of the future is data.
+    🔭 Current Project: Architecting a high-performance Vehicle Classification & Traffic Census system for Solutraffic, leveraging NVIDIA Jetson Orin Nano and multi-camera pipelines.
 
-## Skills
+    🌱 Learning & Research: Deepening my expertise in DeepStream SDK, TensorRT, and the latest YOLO architectures for real-time edge deployment.
 
-I excel in engineering with a focus particular in Machine Learning (ML) and associated technologies. I have skills solid in tools like Python, Matlab, SolidWorks, and I have experience in artificial neural networks, statistics applied, PLC - Ladder, mobile robotics, among other relevant fields. Are skills allow me to address challenges complex engineering with emphasis on the development and application of techniques ML and intelligent systems.
+    ⚡ Fun Fact: When I'm not optimizing neural networks, I'm testing the technical limits of budget gadgets or flying drones to capture new perspectives.
 
-## Meet me at
+🛠 Skills & Expertise
+🧠 Computer Vision & Edge AI
 
-- Instagram: [https://www.instagram.com/_ramos_esteban/](https://www.instagram.com/_ramos_esteban/)
-- LinkedIn: [https://www.linkedin.com/in/esteban-ramos-gomez-27aa551a1/](https://www.linkedin.com/in/esteban-ramos-gomez-27aa551a1/)
-- Facebook: [https://www.facebook.com/esteban.ramosgomez.12/](https://www.facebook.com/esteban.ramosgomez.12/)
+    Object Detection: Expertise in YOLO (v8, v11) and custom model training for urban mobility.
+
+    Edge Deployment: Optimization for NVIDIA Jetson hardware using TensorRT and DeepStream for low-latency inference.
+
+    Data Analysis: Applied statistics and predictive modeling for industrial and traffic data.
+
+⚙️ Engineering & Development
+
+    Programming: Python (Core), C++, MATLAB, and SQL.
+
+    Industrial Automation: PLC (Ladder), SCADA, and Mobile Robotics.
+
+    Design: 3D Modeling in SolidWorks and mechanical integration.
+
+🎬 Content Creation & Tech Review
+
+    Managing a growing community at Estebanns, where I bridge the gap between complex technology and everyday users through reviews, unboxings, and "extreme" tech tests.
+
+📈 Featured Projects
+
+    Smart Traffic Observatory: Development of web-based dashboards and automated detection systems for the Cali Mobility Observatory.
+
+    Edge AI Pipelines: Implementation of multi-stream detection for vehicle counting and classification in real-time.
+
+🔗 Connect with me
+
+  
+
+    LinkedIn: Esteban Ramos Gomez
+
+    Instagram: @_ramos_esteban
+
+    Facebook: Esteban Ramos Gomez
