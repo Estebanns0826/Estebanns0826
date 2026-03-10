@@ -1,4 +1,3 @@
-Aquí tienes una versión mucho más detallada que resalta tu perfil como Ingeniero de Mecatrónica y Especialista en IA, integrando tu trabajo actual en analítica de tráfico y tu influencia en el sector tecnológico.
 🚀 Esteban Ramos Gómez | Mechatronic Engineer & AI Specialist
 
 I’m a Mechatronic Engineer based in Cali, Colombia, specializing in Artificial Intelligence. My work lives at the intersection of computer vision, edge computing, and industrial automation, transforming raw data into actionable intelligence.
